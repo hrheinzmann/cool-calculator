@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoolCalculator</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="times">x</string>
+</resources>
